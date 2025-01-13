@@ -20,7 +20,7 @@ Back to my portfolio build, call this procrastination. But expect I will cleanup
 
 ## Demo
 
-👉 Netlify: To come after first commit.
+👉 Netlify: https://flowerpod.netlify.app/  🌸
 
 ## Run Locally
 
