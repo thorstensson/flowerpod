@@ -4,7 +4,7 @@
 
 # Flowerpod - JS
 
-Did some labs with the HTML canvas drawing API this Sunday. The HTML canvas is great fun. zap Used Tweakpane UI to add in the following tweakable parameters:
+Did some labs with the HTML canvas drawing API this Sunday. The HTML canvas is great fun. :zap: Used Tweakpane UI to add in the following tweakable parameters:
 
 - Color filter: colour-dodge, multiply
 
