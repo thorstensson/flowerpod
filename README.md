@@ -6,13 +6,13 @@
 
 Did some labs with the HTML canvas drawing API this Sunday. The HTML canvas is great fun. :zap: Used Tweakpane UI to add in the following tweakable parameters:
 
-- Color filter: colour-dodge, multiply
+- Color filter: colour-dodge, multiply,...
 
-- Color: a few different hex colours that work well
+- Color: a few different hex colours that work well.
 
-- Degrees: Density of degrees for plotting a flower petal
+- Degrees: Density of degrees for plotting a flower petal.
 
-- Amplitude: space between each flower ring (3 rings at the moment)
+- Amplitude: space between each flower ring (3 rings at the moment).
 
 ---
 
